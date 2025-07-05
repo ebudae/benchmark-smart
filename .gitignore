@@ -1,0 +1,3 @@
+# Exclude compiled executables
+smart_pointer_benchmark_no_opt
+smart_pointer_benchmark_opt
